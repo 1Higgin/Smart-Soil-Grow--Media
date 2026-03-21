@@ -16,8 +16,8 @@ bool watering = false;
 bool pumpRunning = false;
 unsigned long lastToggle = 0;
 
-const unsigned long pumpOnTime  = 2000;   // realistic 2 sec ON
-const unsigned long pumpOffTime = 8000;   // realistic 8 sec OFF
+const unsigned long pumpOnTime  = 6000;   // realistic 2 sec ON
+const unsigned long pumpOffTime = 12000;   // realistic 8 sec OFF
 
 int cycleCount = 0;
 const int maxCycles = 3;

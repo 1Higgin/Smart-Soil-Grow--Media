@@ -4,8 +4,8 @@
 #include <LiquidCrystal_I2C.h>
 
 // -------- WIFI --------
-const char* ssid = "HUAWEI-B535-A157";
-const char* password = "7G14LT1GQB3";
+const char* ssid = "YOUR_WIFI";
+const char* password = "PASSWORD";
 
 // -------- PINS --------
 const int sensorPin = 34;

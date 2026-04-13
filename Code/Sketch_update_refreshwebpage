@@ -1,2 +1,4 @@
 Updated the sketch,Plant_Monitor_Oled.ino, to improve browser monitor webpage to refresh and mirror the OLeds status
 of moisture and pump state in real time.
+Changed default Reset on Startup to be in Manual mode/off state as opposed to Auto,
+in cases of no internet or droput issues.

@@ -49,7 +49,7 @@ const unsigned long pumpOffTime = 12000;  // 12 seconds
 int cycleCount = 0;
 const int maxCycles = 3;
 
-bool manualOverride = false;
+bool manualOverride = true;
 
 // =====================
 // WEB SERVER

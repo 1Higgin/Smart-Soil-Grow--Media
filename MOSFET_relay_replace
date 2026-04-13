@@ -1,2 +1,3 @@
 A relay replaced by MOSFET IRLZ44N, N type, to include 10 k Pulldown resistor between Gate and Source in a low side switching configuration.
-Addition of a flyback diode,across Drain and Source in the Pumps power leads.
+Addition of a flyback diode,across Drain and pump V+ in the Pumps power lead.
+Addition of 220 ohm resistor and Green Led between Gate and GND For the pump status indicator.

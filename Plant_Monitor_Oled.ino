@@ -16,8 +16,8 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 // =====================
 // WIFI
 // =====================
-const char* ssid = "HUAWEI-B535-A157";
-const char* password = "7G14LT1GQB3";
+const char* ssid = "Lighthouse-Mesh";
+const char* password = "1d4life4316";
 
 WebServer server(80);
 
